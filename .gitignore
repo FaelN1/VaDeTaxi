@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Coverage
+coverage/
+
+# Docker
+docker-compose.override.yml
